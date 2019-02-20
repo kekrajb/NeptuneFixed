@@ -44,10 +44,6 @@ Requires iOS 12.0 or later. Made for iPhone.
 
 ## Known Issues
 
-- Home indicator overlaps Tab Bar labels and the keyboard in applications if enabled. This issue cannot be fixed until rootlessJB3 offers access to applications. Please don't bother the developer of rootlessJB3, as it won't accelerate the developement process.
-
-**Workaround:** Use the version of Neptune that does not include the home indicator.
-
 - The dock is not sized properly on the iPhone SE. This will be fixed in a future update. (Likely in a revised version of beta 4)
 
 - Beta 4 has not been tested on iPhone 6, iPhone 7 Plus, iPhone 8 Plus, and iPhone SE, and may have minor visual bugs.
