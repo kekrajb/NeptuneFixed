@@ -1,4 +1,4 @@
-# NeptuneFixed (No ask for .deb, just copy and paste the 2 files in Source with Filza in the tweaksupport)
+# NeptuneFixed (No ask for .deb, just copy and paste the 2 files in Installation Files with Filza in the tweaksupport)
 Fluid Springboard for iOS 12 (Fixed for RootlessJB)
 
 **Features**:
